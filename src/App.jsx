@@ -7,6 +7,7 @@ import Cavities from './pages/cavities/Cavities.jsx';
 import Navigation from './components/navigation/./Navigation.jsx';
 import {Routes, Route} from "react-router-dom";
 
+
 function App() {
     return (
         <>
