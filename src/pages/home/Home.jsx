@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <main className="page-container">
-      <Header icon={logo} title="Tandartspraktijk de Tandenborstel" />
+      <Header icon={logo} title="Tandartspraktijk de bruine Tandenborstel" />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut debitis doloribus
         facilis iste placeat praesentium sint voluptatem. Architecto at, maiores?
